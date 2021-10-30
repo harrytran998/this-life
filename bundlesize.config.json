@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "dist/index.js",
+      "maxSize": "10kB"
+    },
+    {
+      "path": "dist/module.js",
+      "maxSize": "10kB"
+    },
+    {
+      "path": "dist/legacy.js",
+      "maxSize": "10kB"
+    }
+  ]
+}
